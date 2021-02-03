@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className="font_righteous footer_logo_venue">React Quiz</div>
                 <div className="footer_copyright">
                     Made with  
-                <span style={{color : 'crimson'}}>♥</span> By Huzaifa
+                <span style={{color : 'crimson'}}>♥</span> By Saurabh
                 
                 </div>
             </Fade>
